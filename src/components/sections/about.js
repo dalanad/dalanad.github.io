@@ -135,9 +135,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Dalana and I enjoy creating things that run inside computers. My
-              interest in programming started back in 2010 when I got my first computer. Since then,
-              I've been hacking away things of various kinds.
+              Hello! My name is Dalana, and I enjoy creating things that run on computers. My
+              interest in programming began in 2010 when I got my first computer. Since then, I've
+              been enthusiastically hacking away at various projects.
             </p>
 
             <p>
@@ -149,7 +149,7 @@ const About = () => {
               <a href="https://www.the-ai.team">theAITeam</a> for a variety of clients.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies I've been working with recently:</p>
           </div>
 
           <ul className="skills-list">

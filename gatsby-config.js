@@ -3,10 +3,10 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Dalana Dharmathilake',
-    description: 'Dalana Dharmathilake is a software engineer TODO: add more description here',
-    siteUrl: 'https://dalanad.me', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    description: 'Dalana Dharmathilake is a software engineer based in Colombo.',
+    siteUrl: 'https://dalanad.me',
+    image: '/me.jpg',
+    twitterUsername: '@Dalana_Pasindu',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
