@@ -20,7 +20,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "prepare": "husky install",
-    "deploy": "gh-pages -d public -b main",
+    "deploy": "gh-pages  -d public -b main -f -t",
     "lint-staged": "lint-staged"
   },
   "lint-staged": {
