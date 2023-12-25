@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://dalanad.me/sitemap.xml
+Host: https://dalanad.me

@@ -1,0 +1,19 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" role="img" view-Box="0 0 100 100">
+    <title>Logo</title>
+    <g transform="translate(.000000, .000000)">
+        <g transform="translate(11.000000, 11.000000)">
+            <polygon
+                id="Shape"
+                points="39 0 0 22 0 67 39 90 78 68 78 23"
+                stroke="black"
+                fill="black"
+                stroke-width="20"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+            />
+            <text fill="#64ffda" font-family="arial" x="3" font-size="50" font-Weight="900" y="62">
+                DD
+            </text>
+        </g>
+    </g>
+</svg>
