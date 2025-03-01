@@ -1,9 +1,9 @@
 ---
-date: '2023-12-31'
+date: '2023-10-31'
 title: 'Software Engineer'
 company: 'theAITeam'
 location: 'Colombo, Sri Lanka'
-range: 'December 2021 - Present'
+range: 'December 2021 - June 2024'
 url: 'https://www.the-ai.team/'
 ---
 

@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Angular', 'Node.js', 'NestJs'];
+  const skills = ['C/C++', 'TypeScript', 'React', 'Java', 'Node.js', 'NestJs'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -145,10 +145,9 @@ const About = () => {
               <a href="https://www.nawaloka.com/"> a huge corporation</a>,
               <a href="https://www.the-ai.team/"> &nbsp;a start-up</a> and &nbsp;
               <a href="https://github.com/cots-lab/">a research lab</a>. My main focus these days is
-              building accessible, inclusive products and digital experiences at{' '}
-              <a href="https://www.the-ai.team">theAITeam</a> for a variety of clients.
+              building high performance, low-latancy clearing solutions at{' '}
+              <a href="https://www.lseg.com/en">LSEG</a> for a variety of clients.
             </p>
-
             <p>Here are a few technologies I've been working with recently:</p>
           </div>
 

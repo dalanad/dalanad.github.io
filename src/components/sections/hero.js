@@ -90,10 +90,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a software engineer specializing in building web based solutions.
-        <br /> With a unique combination of technical skills and a passion for problem-solving, I'm
-        dedicated to taking on new challenges and continually expanding my expertise in software
-        development .
+        I'm a software engineer with expertise in high-performance systems and cloud-native
+        development, and I have a passion for creating efficient, scalable, and user-friendly
+        software solutions. With a diverse skill set and a commitment to continuous learning, I
+        thrive in dynamic environments and enjoy tackling complex engineering challenges.
       </p>
     </>
   );
